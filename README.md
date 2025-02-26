@@ -8,9 +8,5 @@
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iZioid&show_icons=true&theme=dark)
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)](https://twitter.com/)
-
 ---
 ⭐ **Feel free to explore my repositories and contribute!** 🚀
