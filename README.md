@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**iZioid/iZioid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 💻 Passionate about coding and technology.
+- 🚀 Always learning and building new projects.
+- ⚡ Interested in automation, security, and cloud computing.
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iZioid&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)](https://twitter.com/)
+
+---
+⭐ **Feel free to explore my repositories and contribute!** 🚀
